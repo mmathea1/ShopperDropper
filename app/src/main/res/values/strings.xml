@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ShopperDrop</string>
+
+    <string name="hello_world">Shopper Drop</string>
+    <string name="action_settings">Settings</string>
+    <!--Register Activity-->
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="email_label"> Email: </string>
+    <string name="pass_label"> Password: </string>
+    <string name="or_label"> ------ OR ------ </string>
+    <string name="or_label_2"> OR </string>
+    <string name="btRegister"> Register </string>
+    <string name="btFacebook"> Facebook </string>
+    <string name="btSignOut"> Sign Out </string>
+    <string name="btEdit"> Edit Profile </string>
+    <string name="btContinue"> Continue </string>
+
+    <string name="btn_find">Find Shops Near Me</string>
+
+    <string-array name="place_type">
+        <item>shopping_mall</item>
+        <item>dept_store</item>
+        <item>supermarket</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Shopping Mall</item>
+        <item>Department Store</item>
+        <item>Supermarket</item>
+    </string-array>
+
+    <string name="facebook_app_id">1180660091951370</string>
+    <string name="title_activity_location">Location Activity</string>
+    <string name="title_activity_shopping">Shopping Activity</string>
+
+    <string name="title_section1">Shop Here</string>
+    <string name="title_section2">Settings</string>
+    <string name="title_section3">Shopping Cart</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+</resources>
